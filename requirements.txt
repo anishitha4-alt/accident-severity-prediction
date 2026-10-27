@@ -3,4 +3,4 @@ pandas
 numpy
 joblib
 tensorflow==2.15.1
-scikit-learn
+scikit-learn==1.0.2
